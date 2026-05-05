@@ -1,0 +1,8 @@
+{
+    "short_name": "Hydro",
+    "name": "Water & Creatine Tracker",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#0EA5E9",
+    "background_color": "#F8FAFC"
+  }
